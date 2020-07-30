@@ -12,10 +12,11 @@
 ### Connect with me:
 
 [<img align="left" alt="mozahidul.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mozahidul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mozahidul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mozahidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mozahidul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mozahidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mozahidul | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mozahidul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mozahidul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -69,10 +70,11 @@
 
 
 [website]: https://mozahidul.xyz
-[twitter]: https://twitter.com/mozahidul001
+[twitter]: https://twitter.com/mozahidul01
+[facebook]: https://fb.com/mozahidul01
 [youtube]: https://youtube.com/Mozahidul
-[instagram]: https://www.instagram.com/im_mozo/
-[linkedin]: https://linkedin.com/in/mozahidulislam00/
+[instagram]: https://www.instagram.com/mozahidul01
+[linkedin]: https://linkedin.com/in/mozahidul01
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
