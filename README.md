@@ -54,7 +54,7 @@ No Activity tracked this Week
 
 ---
 
-<img align="left" alt="Mozahidul01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&hide_border=true&hide=stars,commits,prs,contribs" />
+<img align="left" alt="Mozahidul01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&hide_border=true&hide=issue" />
 
 ---
 
