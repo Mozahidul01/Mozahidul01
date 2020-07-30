@@ -46,6 +46,10 @@
 
 ---
 
+<img align="left" alt="Mozahidul01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&hide_border=true" />
+
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
@@ -66,9 +70,6 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<img align="left" alt="Mozahidul01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&hide_border=true" />
 
 [website]: https://mozahidul.xyz
 [twitter]: https://twitter.com/mozahidul001
