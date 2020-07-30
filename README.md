@@ -3,7 +3,6 @@
 ## I'm a Developer, Student, and Teacher!
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything related to Javascript/Wordpress
 - 📫 How to reach me: [@Mozahidul](https://portfolio.mozahidul.xyz/)
 - 🥅 2020 Goals: Learn More about JavaScript, React And Php
