@@ -48,16 +48,19 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<br />
 ---
 
 <img align="left" alt="Mozahidul01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&hide_border=true&hide=stars,commits,prs,contribs" />
 
+<br />
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+<br />
 ---
 
 ### 📕 Latest Blog Posts
