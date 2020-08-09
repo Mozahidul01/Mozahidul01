@@ -66,9 +66,6 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 [website]: https://mozahidul.xyz
