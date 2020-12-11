@@ -47,7 +47,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-
+JSON         18 mins         ████████████████████████▓   99.26 % 
 ```
 <!--END_SECTION:waka-->
 
