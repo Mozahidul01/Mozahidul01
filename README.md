@@ -45,8 +45,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 28 mins    ████████████████████████▒   96.88 % 
-SCSS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
