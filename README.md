@@ -60,8 +60,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&locale=en" alt="mozahidul01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" alt="mozahidul01" /></p> <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact" alt="mozahidul01" /></p>
 
 
@@ -71,3 +69,5 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" alt="mozahidul01" /></p> <br>
