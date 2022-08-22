@@ -62,9 +62,6 @@
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <p width="40%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact" alt="mozahidul01"/></p>
