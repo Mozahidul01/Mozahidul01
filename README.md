@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mozo.postbox@gmail.com**
 
-- ⚡ Fun fact **I love to take Picture.**
+- ⚡ Fun fact **I love to Cook 👨‍🍳.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
