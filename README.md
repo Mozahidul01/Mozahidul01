@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Mastering **React.**
 
-- 👨‍💻 All of my projects are available at [https://mozahidul.com](https://mozahidul.com)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul.com)
 
 - 💬 Ask me about **react,wordpress.**
 
