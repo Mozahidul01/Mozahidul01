@@ -62,6 +62,20 @@
 
 📊 **I spent my time on**
 <!--START_SECTION:waka-->
+
+```text
+From: 29 July 2020 - To: 07 September 2022
+
+Total Time: 193 hrs 30 mins
+
+JavaScript   88 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.55 %
+CSS          43 hrs 37 mins  ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.54 %
+HTML         36 hrs 17 mins  ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.75 %
+SCSS         16 hrs 26 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.49 %
+Markdown     5 hrs 18 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.74 %
+JSON         2 hrs 56 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.52 %
+```
+
 <!--END_SECTION:waka-->
 
 <p width="40%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact" alt="mozahidul01"/></p>
