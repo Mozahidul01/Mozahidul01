@@ -60,18 +60,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&locale=en" alt="mozahidul01" /></p>
 
-📊 **This week I spent my time on**
+📊 **I spent my time on**
 <!--START_SECTION:waka-->
-
-```text
-SCSS         13 hrs 38 mins  ██████████████▒░░░░░░░░░░   57.52 %
-HTML         4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Markdown     2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-CSS          2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-```
-
 <!--END_SECTION:waka-->
 
 <p width="40%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact" alt="mozahidul01"/></p>
