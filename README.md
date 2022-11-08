@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2020 - To: 05 November 2022
+From: 29 July 2020 - To: 06 November 2022
 
 Total Time: 226 hrs 47 mins
 
