@@ -40,9 +40,9 @@ Other        1 hr 24 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<div width="100">
-  <div width="50%" ><img src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&locale=en" alt="mozahidul01" /></div>
-  <div width="50%" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" alt="mozahidul01"/></div>
+<div width="100%">
+  <div width="35%" ><img align="left" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&locale=en" alt="mozahidul01" /></div>
+  <div width="35%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" alt="mozahidul01"/></div>
 </div>
 </br>
 <div align="center">
