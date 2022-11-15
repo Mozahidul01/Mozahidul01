@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul.com)
 
-- 💬 Ask me about **react,wordpress.**
+- 💜 I'm in love with **react & CSS**
 
 - 📫 How to reach me **mozo.postbox@gmail.com**
 
