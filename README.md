@@ -39,11 +39,15 @@ Other        1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
 <div width="100%">
-  <div width="410px" ><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&locale=en" alt="mozahidul01" /></div>
-  <div width="410px" ><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" alt="mozahidul01"/></div>
+  <div width="410px" ><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=codeSTACKr" /></div>
+  <div width="410px" ><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozahidul01&" /></div>
 </div>
 </br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact" alt="mozahidul01"/>
+<div width="100%">
+  <div width="410px"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact"/></div>
+  <div width="410px" ><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact
+" /></div>
 </div> 
