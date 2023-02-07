@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Something Cool 😉**
 
-- 🌱 I’m currently Mastering **React.**
+- 🌱 I’m currently Learning **Redux.**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul.com)
 
-- 💜 I'm in love with **react & CSS**
+- 💜 I'm in love with **React & Tailwind**
 
 - 📫 How to reach me **mozo.postbox@gmail.com**
 
