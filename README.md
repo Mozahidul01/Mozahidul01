@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Something Cool 😉**
 
-- 🌱 I’m currently Learning **Redux.**
+- 🌱 I’m currently Mastaring **Node js**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul.com)
 
