@@ -19,7 +19,7 @@
 
 #### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,mongodb,nextjs,prisma,postgres,supabase,redis,md,tailwind,bootstrap,materialui,threejs,git,postman,firebase,netlify,vercel,vite,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,mongodb,nextjs,prisma,pocketbase,redis,md,mdx,tailwind,bootstrap,materialui,threejs,git,postman,firebase,netlify,vercel,vite,vscode&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 **My State So Far**
