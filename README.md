@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Something Cool 😉**
 
-- 🌱 I’m currently Mastaring **Node js**
+- 🌱 I’m currently Mastering **Next js**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul.com)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://mozahidul01.netlify.app)
 
 - 💜 I'm in love with **React & Tailwind**
 
@@ -27,7 +27,7 @@
 <div width="100%">
   <div width="410px"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&layout=default&rlast_30_days&theme=vision-friendly-dark&custom_title=Spend%20My%20Time%20On" /></div>
   <div width="100%" >
-    <img width="400px" align="centrer" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
+    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
     <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidul01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" /> 
   </div>
 </div>
