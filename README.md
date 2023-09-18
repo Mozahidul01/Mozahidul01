@@ -9,7 +9,7 @@
 
 - 💜 I'm in love with **React & Tailwind**
 
-- 📫 How to reach me **mozo.postbox@gmail.com**
+- 📫 How to reach me **mmozahidul01@gmail.com**
 
 - ⚡ Fun fact **I love to Cook 👨‍🍳.**
 
