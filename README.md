@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952z6xw8s78id70b3v8fa7o6oac82wcgilf1swdb44v&rid=giphy.gif&ct=s" width="48px" alt="hi"/>, I'm Mozahidul</h1>
+<h1 align="center">Hi 
+  <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952z6xw8s78id70b3v8fa7o6oac82wcgilf1swdb44v&rid=giphy.gif&ct=s" width="48px" alt="hi"/>
+  <span>, I'm Mozahidul</span>
+</h1>
 <h3 align="center">A passionate Full-stack developer from Dhaka,Bangladesh.</h3>
 
 - 🔭 I’m currently working on **Something Cool 😉**
