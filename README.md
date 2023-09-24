@@ -22,7 +22,7 @@
 
 #### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,mongodb,nextjs,prisma,astro,md,planetscale,tailwind,bootstrap,materialui,git,postman,netlify,vercel,vite,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,mongodb,nextjs,prisma,astro,md,tailwind,bootstrap,materialui,git,postman,netlify,vercel,vite,vscode&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 **My State So Far**
