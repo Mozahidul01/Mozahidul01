@@ -20,9 +20,8 @@
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![popos](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
+![popos](https://img.shields.io/badge/Pop!_OS-48B9C1?style=flat-square&logo=popos&logoColor=white)
 
 I am a full-stack developer with a huge love for React.js, Astro, Tailwind CSS, and the Everything API. Currently, **I'm working as a junior software engineer at Dhrubok Infotech Services Ltd.**.
 
