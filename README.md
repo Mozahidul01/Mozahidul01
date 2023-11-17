@@ -21,20 +21,20 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![popos](https://img.shields.io/badge/Pop!_OS-48B9C1?style=flat-square&logo=popos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 I am a full-stack developer with a huge love for React.js, Astro, Tailwind CSS, and the Everything API. Currently, **I'm working as a junior software engineer at Dhrubok Infotech Services Ltd.**.
 
 I love to read books and try new recipes.
 
 - 🔭 I’m currently trying to make a reusable small business management tool.
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about JavaScript React.js and tailwind CSS.
 - 📫 I am just one mail away - [mmozahidul01.gmail.com](mailto:mmozahidul01.gmail.com)
 
 - :partying_face: Fun fact: I love to cook, I love to travel.
-- :wrench: Tools - VSCode, Markdown Editors, Notion, Docker and the Hyper Terminal with Oh MyZSH and PowerLevel 10K on Linux (Fedora).
+- :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Hyper Terminal with Oh MyZSH and PowerLevel 10K on Linux (Fedora).
 - :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul01.netlify.app/blogs/)
   
 ### Where to find me
