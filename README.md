@@ -41,7 +41,7 @@ I love to read books and try new recipes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozahidul01/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mozahidul01)
-[![website](https://img.shields.io/badge/MY%20Website-1DA1F2?style=flat-square)](https://mozahidul01.netlify.app)
+[![website](https://img.shields.io/badge/MY%20Website-1DA1F2?style=flat-square)](https://mozahidul.me)
 
 ### 📊 **My State So Far**
 
