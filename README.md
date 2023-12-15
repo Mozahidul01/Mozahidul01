@@ -35,7 +35,7 @@ I love to read books and try new recipes.
 
 - :partying_face: Fun fact: I love to cook, I love to travel.
 - :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Hyper Terminal with Oh MyZSH and PowerLevel 10K on Linux (Fedora).
-- :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul01.netlify.app/blogs/)
+- :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul.me/blogs/)
   
 ### Where to find me
 
