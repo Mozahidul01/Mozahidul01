@@ -29,7 +29,7 @@ I love to read books and try new recipes.
 - 🔭 I’m currently trying to make a reusable small business management tool.
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about JavaScript React.js and tailwind CSS.
+- 💬 Ask me about JavaScript React.js, Next Js and tailwind CSS.
 - 📫 I am just one mail away - [mmozahidul01.gmail.com](mailto:mmozahidul01.gmail.com)
 
 - :partying_face: Fun fact: I love to cook, I love to travel.
