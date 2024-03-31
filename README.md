@@ -26,7 +26,7 @@ I am a full-stack developer with a huge love for Next.js, Astro, Tailwind CSS, a
 
 I love to read books and try new recipes.
 
-- 🔭 I’m currently trying to make a reusable small business management tool.
+- 🔭 I’m currently working on FinTech application.
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about JavaScript React.js, Next Js and tailwind CSS.
