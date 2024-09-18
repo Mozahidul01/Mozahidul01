@@ -22,7 +22,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 
-I am a full-stack developer with a huge love for Next.js, Astro, Tailwind CSS, and the Everything API. Currently, **I'm working as a junior software engineer at Dhrubok Infotech Services Ltd.**.
+I am a full-stack developer with a huge love for Next.js, Astro, Tailwind CSS, and the Everything API. Currently, **I'm working as a software engineer at Dhrubok Infotech Services Ltd.**.
 
 I love to read books and try new recipes.
 
