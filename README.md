@@ -33,7 +33,7 @@ I love to read books and try new recipes.
 - 📫 I am just one mail away - [mmozahidul01.gmail.com](mailto:mmozahidul01.gmail.com)
 
 - :partying_face: Fun fact: I love to cook, I love to travel.
-- :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Hyper Terminal with Oh MyZSH and PowerLevel 10K on Linux (Fedora).
+- :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Warp Terminal with zsh and starship on Linux (Fedora).
 - :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul.me/blogs/)
   
 ### Where to find me
