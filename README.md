@@ -26,13 +26,13 @@ I am a full-stack developer with a huge love for Next.js, Astro, Tailwind CSS, a
 
 I love to read books and try new recipes.
 
-- 🔭 I’m currently working on FinTech application.
-- 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
+- 🔭 I’m currently working on an e-commerce solution.
+- 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about JavaScript React.js, Next Js and tailwind CSS.
+- 💬 Ask me about JavaScript React.js, Next Js, and tailwind CSS.
 - 📫 I am just one mail away - [mmozahidul01.gmail.com](mailto:mmozahidul01.gmail.com)
 
-- :partying_face: Fun fact: I love to cook, I love to travel.
+- :partying_face: Fun fact: I love to cook and travel.
 - :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Warp Terminal with zsh and starship on Linux (Fedora).
 - :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul.me/blogs/)
   
@@ -40,7 +40,7 @@ I love to read books and try new recipes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozahidul01/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mozahidul01)
-[![website](https://img.shields.io/badge/MY%20Website-1DA1F2?style=flat-square)](https://mozahidul.me)
+[![website](https://img.shields.io/badge/MY%20Website-1DA1F2?style=flat-square)]([https://mozahidul.me](https://mozahidul01.netlify.app/))
 
 ### 📊 **My State So Far**
 
