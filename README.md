@@ -34,7 +34,7 @@ I love to read books and try new recipes.
 
 - :partying_face: Fun fact: I love to cook and travel.
 - :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Warp Terminal with zsh and starship on Linux (Fedora).
-- :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul.me/blogs/)
+- :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul01.netlify.app/blogs/)
   
 ### Where to find me
 
