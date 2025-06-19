@@ -1,52 +1,77 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Mozahidul.  Nice to see you.</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
+  Hey, I'm Mozahidul Islam!
+</h1>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+<p align="center">
+  Full-Stack Engineer (Frontend focused) crafting user-first, scalable web apps with <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. Currently building impactful solutions at <strong>Dhrubok Infotech Services Ltd.</strong>
+</p>
 
-I am a full-stack developer with a huge love for Next.js, Astro, Tailwind CSS, and the Everything API. Currently, **I'm working as a software engineer at Dhrubok Infotech Services Ltd.**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/mozahidul01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://mozahidul01.netlify.app/"><img src="https://img.shields.io/badge/My%20Website-1DA1F2?style=flat-square" /></a>
+  <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-I love to read books and try new recipes.
+---
 
-- 🔭 I’m currently working on an e-commerce solution.
-- 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about JavaScript React.js, Next Js, and tailwind CSS.
-- 📫 I am just one mail away - [mmozahidul01.gmail.com](mailto:mmozahidul01.gmail.com)
+### 🧠 About Me
 
-- :partying_face: Fun fact: I love to cook and travel.
-- :wrench: Tools - VSCode, Markdown Editors, Notion, Docker, and the Warp Terminal with zsh and starship on Linux (Fedora).
-- :busts_in_silhouette: I try to write blogs sometimes - [Blogs](https://mozahidul01.netlify.app/blogs/)
-  
-### Where to find me
+- 🔭 Currently working on a modern e-commerce solution
+- 📦 Building DBL Go Plus — a banking app with 70,000+ users
+- ✍️ I occasionally blog about React & frontend architecture [here](https://mozahidul01.netlify.app/blogs/)
+- 🎯 Exploring frontend performance, reusability, and design systems
+- 💬 Ask me about JavaScript, Next.js, Tailwind CSS, or UI/UX strategies
+- 🌍 Open to remote work and relocation opportunities
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozahidul01/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mozahidul01)
-[![website](https://img.shields.io/badge/MY%20Website-1DA1F2?style=flat-square)]([https://mozahidul.me](https://mozahidul01.netlify.app/))
+---
 
-### 📊 **My State So Far**
+### 🛠️ Toolbox
 
-<div width="100%">
-  <div width="410px"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&layout=default&rlast_30_days&theme=vision-friendly-dark&custom_title=Spend%20My%20Time%20On" /></div>
-  <div width="100%" >
-    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" /> 
-  </div>
-</div>
+| Tech Stack         | Tools & Utilities             |
+|--------------------|-------------------------------|
+| `React`, `Next.js`, `Astro` | VS Code, Notion, Warp Terminal (zsh + Starship) |
+| `JavaScript`, `TypeScript` | Git, GitHub, GitHub Actions |
+| `Tailwind CSS`, `MUI`, `Sass` | Docker, Markdown, Netlify |
+| `Node.js`, `MongoDB` | Postman, REST APIs, Zustand, Redux |
+
+---
+
+### 🔥 GitHub Activity
+
+> Note: Some contributions are private or part of org repositories and may not appear below.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mozahidul01&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&layout=default&theme=vision-friendly-dark&custom_title=Time%20Spent%20Coding" />
+</p>
+
+---
+
+### 🌟 Notable Projects
+
+- 🏦 **[DBL Go Plus](#)** – Fintech portal serving 70k+ users (Next.js, Tailwind CSS, Redux)
+- 👮 **[Asian Jade Society NYPD](#)** – Membership platform for NYPD officers
+- 🧩 **[Portfolio Website](https://mozahidul01.netlify.app/)** – Clean, minimalistic dev portfolio
+- 🧾 **[Self-Banking Portal](#)** – Used by thousands daily for digital banking operations
+
+---
+
+### 😄 Fun Facts
+
+- I love cooking complex recipes as much as I love untangling complex code.
+- Terminal looks matter — Warp + Starship is life.
+- Fedora gang 🐧
+
+---
+
+> 📫 You can reach me at: [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)
+
+---
+
+### 🧭 Let’s Connect and Build Something Awesome Together!
