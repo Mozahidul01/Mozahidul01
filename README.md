@@ -3,14 +3,13 @@
   Hey, I'm Mozahidul Islam!
 </h1><p align="center">
   Full-Stack Engineer (Frontend fan-boy) turning ☕ into <strong>React / Next.js</strong> magic.<br/>
-  Currently building fintech & membership platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
+  Currently building Fintech & Enterprise platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
 </p><p align="center">
   <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://mozahidul01.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square"></a>
   <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mozahidul01.mozahidul01&style=flat-square" />
 </p>
----
 
 🚀 About Me
 
@@ -28,8 +27,6 @@
 
 
 
----
-
 🧰 Tech Toolbox
 
 🌐 Frontend	⚙️ Utilities	🚀 Currently Exploring
@@ -40,16 +37,14 @@ Tailwind CSS · shadcn/ui · MUI	Linux (Fedora)	Three.js (just for fun)
 
 
 
----
-
 🌟 Notable Projects
 
 Project	Stack	Impact
 
-DBL GO Plus	Next.js · Tailwind · Redux	Banking app for 80k+ users
+DBL GO Plus	Next.js · Tailwind · Redux	Banking app for 70k+ users
 Spendo	React · Next.js · TypeScript	Crypto + vIBAN platform (EU)
 DBL Corporate Portal	React · TypeScript	Internal tool for 1,500+ staff
-Hispanic Society NYPD	Next.js · SCSS	Community portal & ticketing
+Hispanic Society NYPD	Next.js · Tailwind CSS	Community portal & ticketing
 Dhrubok Infotech Website	Node.js · Next.js · Tailwind CSS	Full-stack app for portfolio, content & recruitment
 
 
@@ -58,15 +53,12 @@ Dhrubok Infotech Website	Node.js · Next.js · Tailwind CSS	Full-stack app for p
 
 
 
----
-
 📊 GitHub Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=mozahidul01&theme=dark&hide_border=true" />
 </p>
----
 
 ✉️ Reach Out
 
@@ -75,8 +67,6 @@ Email: mmozahidul01@gmail.com
 LinkedIn DMs always open for collaboration, coffee chats, or Friends trivia!
 
 
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
