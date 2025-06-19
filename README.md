@@ -1,77 +1,79 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="32"/>
   Hey, I'm Mozahidul Islam!
 </h1>
 
 <p align="center">
-  Full-Stack Engineer (Frontend focused) crafting user-first, scalable web apps with <strong>React</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. Currently building impactful solutions at <strong>Dhrubok Infotech Services Ltd.</strong>
+  Full-Stack Engineer (Frontend fan-boy) turning ☕ into <strong>React / Next.js</strong> magic.<br/>
+  Currently building fintech & membership platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mozahidul01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://mozahidul01.netlify.app/"><img src="https://img.shields.io/badge/My%20Website-1DA1F2?style=flat-square" /></a>
-  <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://mozahidul01.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square"></a>
+  <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mozahidul01.mozahidul01&style=flat-square" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🔭 Currently working on a modern e-commerce solution
-- 📦 Building DBL Go Plus — a banking app with 70,000+ users
-- ✍️ I occasionally blog about React & frontend architecture [here](https://mozahidul01.netlify.app/blogs/)
-- 🎯 Exploring frontend performance, reusability, and design systems
-- 💬 Ask me about JavaScript, Next.js, Tailwind CSS, or UI/UX strategies
-- 🌍 Open to remote work and relocation opportunities
-
----
-
-### 🛠️ Toolbox
-
-| Tech Stack         | Tools & Utilities             |
-|--------------------|-------------------------------|
-| `React`, `Next.js`, `Astro` | VS Code, Notion, Warp Terminal (zsh + Starship) |
-| `JavaScript`, `TypeScript` | Git, GitHub, GitHub Actions |
-| `Tailwind CSS`, `MUI`, `Sass` | Docker, Markdown, Netlify |
-| `Node.js`, `MongoDB` | Postman, REST APIs, Zustand, Redux |
+- 🔭 Shipping **bank-grade apps** with React, Next.js & Tailwind  
+- 🧑‍💻 Learning **NestJS** for backend APIs & **React Native + Expo** for my next side-project  
+- 🛠️ Terminal stack: **Warp → zsh → powerlevel10k** (because vibes matter)  
+- 🐧 Hardcore **Fedora + GNOME customisation** enthusiast  
+- ☕ Can’t code without coffee; can quote entire episodes of **Friends** & **Big Bang Theory**
 
 ---
 
-### 🔥 GitHub Activity
+### 🧰 Tech Toolbox
 
-> Note: Some contributions are private or part of org repositories and may not appear below.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mozahidul01&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&layout=default&theme=vision-friendly-dark&custom_title=Time%20Spent%20Coding" />
-</p>
+| 🌐 Frontend | ⚙️ Utilities | 🚀 Currently Exploring |
+|-------------|--------------|------------------------|
+| React · Next.js · Astro | GitHub Actions · Docker | NestJS · React Native |
+| TypeScript · JavaScript (ES6) | Warp Terminal · VSCode · Notion | Micro-frontends |
+| Tailwind CSS · shadcn/ui · MUI | Linux (Fedora) | Three.js (just for fun) |
 
 ---
 
 ### 🌟 Notable Projects
 
-- 🏦 **[DBL Go Plus](#)** – Fintech portal serving 70k+ users (Next.js, Tailwind CSS, Redux)
-- 👮 **[Asian Jade Society NYPD](#)** – Membership platform for NYPD officers
-- 🧩 **[Portfolio Website](https://mozahidul01.netlify.app/)** – Clean, minimalistic dev portfolio
-- 🧾 **[Self-Banking Portal](#)** – Used by thousands daily for digital banking operations
+| Project | Stack | Impact |
+|---------|-------|--------|
+| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · Tailwind · Redux | Banking app for **80k+ users** |
+| **[Spendo](https://app.spendo.com/)** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
+| **[DBL Corporate Portal](private)** | React · TypeScript | Internal tool for **1,500+ staff** |
+| **[Asian Jade Society NYPD](https://www.nypdasianjade.org/)** | Next.js · Tailwind | Membership site for NYPD officers |
+| **[Hispanic Society NYPD](https://www.nypdhs.com/)** | Next.js · SCSS | Community portal & ticketing |
+| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Astro · Tailwind | 80 % faster page loads |
+
+> ⚠️ Some contributions are in private or organisation repos, so GitHub stats may look quieter than my keyboard really is.
 
 ---
 
-### 😄 Fun Facts
+### 📊 GitHub Activity
 
-- I love cooking complex recipes as much as I love untangling complex code.
-- Terminal looks matter — Warp + Starship is life.
-- Fedora gang 🐧
-
----
-
-> 📫 You can reach me at: [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mozahidul01&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-### 🧭 Let’s Connect and Build Something Awesome Together!
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Creating Secure Auth with NextAuth & Next.js](https://mozahidul01.netlify.app/blogs/)
+- [Tailwind + shadcn/ui: A Match Made in Heaven](https://mozahidul01.netlify.app/blogs/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ✉️ Reach Out
+
+- Email: [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)  
+- LinkedIn DMs always open for collaboration, coffee chats, or **Friends** trivia!
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
