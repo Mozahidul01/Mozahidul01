@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🔭 Shipping **bank-grade apps** with React, Next.js & Tailwind  
-- 🧑‍💻 Learning **NestJS** for backend APIs & **React Native + Expo** for my next side-project  
+- 🧑‍💻 Learning **NestJS** for backend APIs & **React Native + Expo** for my next project  
 - 🛠️ Terminal stack: **Warp → zsh → powerlevel10k** (because vibes matter)  
 - 🐧 Hardcore **Fedora + GNOME customisation** enthusiast  
 - ☕ Can’t code without coffee; can quote entire episodes of **Friends** & **Big Bang Theory**
@@ -41,9 +41,9 @@
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · Tailwind · Redux | Banking app for **70k+ users** |
+| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · Typescript · MUI | Banking app for **70k+ users** |
 | **[Spendo](https://app.spendo.com/)** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
-| **[DBL Corporate Portal](private)** | React · TypeScript | Internal tool for **1,500+ staff** |
+| **[DBL Corporate Portal](private)** | React · TypeScript · Redux| Internal tool for **1,500+ staff** |
 | **[Hispanic Society NYPD](https://www.nypdhs.com/)** | Next.js · Tailwind CSS | Community portal & ticketing |
 | **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next Js · Node Js | Official website Of DISL |
 
@@ -71,7 +71,7 @@
 ### ✉️ Reach Out
 
 - Email: [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)  
-- LinkedIn DMs always open for collaboration, coffee chats, or **Friends** trivia!
+- LinkedIn DMs are always open for collaboration, coffee chats, or **Friends** trivia!
 
 ---
 
