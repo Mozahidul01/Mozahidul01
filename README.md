@@ -60,6 +60,16 @@
 
 ---
 
+### Code
+[![wakatime](https://wakatime.com/badge/user/021f04c9-3fd4-4f48-8bed-8efcea26c853.svg)](https://wakatime.com/@021f04c9-3fd4-4f48-8bed-8efcea26c853)
+
+# Wakatime Statistics:
+<a href="https://wakatime.com/@mahabubsaki">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahabubsaki" alt="WakaTimeee">
+</a>
+
+---
+
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating Secure Auth with NextAuth & Next.js](https://mozahidul01.netlify.app/blogs/)
