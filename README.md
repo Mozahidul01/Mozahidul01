@@ -55,7 +55,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mozahidul01&theme=dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mozahidul01&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 # Wakatime Statistics:
 <a href="https://wakatime.com/@mozahidul01">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01" alt="WakaTimeee">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" alt="WakaTimeee">
 </a>
 
 ---
