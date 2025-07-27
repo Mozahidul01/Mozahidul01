@@ -60,12 +60,12 @@
 
 ---
 
-### Code
-[![wakatime](https://wakatime.com/badge/user/021f04c9-3fd4-4f48-8bed-8efcea26c853.svg)](https://wakatime.com/@021f04c9-3fd4-4f48-8bed-8efcea26c853)
+### Coded
+[![wakatime](https://wakatime.com/badge/user/d1d03db4-b066-4369-802e-b0934f2b76e6.svg)](https://wakatime.com/@d1d03db4-b066-4369-802e-b0934f2b76e6)
 
 # Wakatime Statistics:
-<a href="https://wakatime.com/@mahabubsaki">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahabubsaki" alt="WakaTimeee">
+<a href="https://wakatime.com/@mozahidul01">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01" alt="WakaTimeee">
 </a>
 
 ---
