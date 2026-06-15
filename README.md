@@ -47,14 +47,14 @@
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · TypeScript · MUI | Banking app for **70k+ users** |
-| **[Spendo](https://app.spendo.com/)** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
+| **DBL GO Plus** | Next.js · TypeScript · MUI | Banking app for **70k+ users** |
+| **Spendo** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
 | **NanoCard** | Next.js · TypeScript · Flutter | Card-issuing fintech — web, admin & mobile app |
 | **Ezy NeoBank** | Next.js · TypeScript · TanStack Query | Neobank platform — customer + admin |
 | **RapidCart** | Next.js · TypeScript · Tailwind | E-commerce platform + admin dashboard |
 | **DBL Corporate Portal** *(private)* | React · TypeScript · Redux | Internal tool for **1,500+ staff** |
-| **[Hispanic Society NYPD](https://www.nypdhs.com/)** | Next.js · Tailwind CSS | Community portal & ticketing |
-| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next.js · Node.js | Official website of DISL |
+| **Hispanic Society NYPD** | Next.js · Tailwind CSS | Community portal & ticketing |
+| **Dhrubok Infotech Website** | Next.js · Node.js | Official website of DISL |
 
 > ⚠️ Lots of my work lives in private / org repos, so the graphs below are quieter than my keyboard actually is.
 
