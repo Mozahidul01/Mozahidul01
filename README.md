@@ -1,13 +1,12 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <a href="https://mozahidul01.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=75&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic;Building+Fintech+%40+Dhrubok+Infotech" alt="Mozahidul Islam" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&height=70&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic" alt="Mozahidul Islam" />
   </a>
 </p>
 
 <p align="center">
-  Full-Stack Engineer (Frontend fan-boy) shipping <strong>bank-grade React / Next.js</strong> apps.<br/>
-  Currently building Fintech &amp; Enterprise platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
+  Full-Stack Engineer (Frontend fan-boy) shipping <strong>bank-grade React / Next.js</strong> apps.
 </p>
 
 <!-- SOCIAL + VIEWS -->
