@@ -71,6 +71,11 @@
   <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozahidul01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time of day"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed language"/>
+</p>
+
 <!--
   TROPHY ROW — disabled: the public github-profile-trophy.vercel.app instance is
   currently returning HTTP 402 (over quota) and renders as a broken image.
@@ -96,6 +101,25 @@
     <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
+
+---
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph"/>
+</p>
+
+<!--
+  METRICS DASHBOARD — enable after: (1) create a classic PAT (scopes: repo, read:user)
+  -> add it as repo secret METRICS_TOKEN, (2) run the "Metrics" workflow once.
+  Then uncomment this block.
+### 📈 Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/github-metrics.svg" alt="Metrics dashboard"/>
+</p>
+-->
 
 ---
 
