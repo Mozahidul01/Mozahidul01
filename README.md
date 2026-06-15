@@ -21,8 +21,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Shipping **bank-grade apps** with React, Next.js & Tailwind for **70k+ users**
-- 🧑‍💻 Leveling up on **NestJS** (backend APIs) & **React Native + Expo** (mobile)
+- 🔭 Shipping **bank-grade fintech apps** with React, Next.js & Tailwind for **70k+ users**
+- 📱 Building cross-platform mobile with **Flutter** (Dart) — also fluent in **React Native**
+- 🧑‍💻 At home across the stack: **TypeScript**, Redux Toolkit, TanStack Query & Node.js
 - 🛠️ Daily driver: **Warp → zsh → powerlevel10k** — because vibes matter
 - 🐧 Hardcore **Fedora + GNOME ricing** enthusiast
 - ☕ Can't code without coffee; can quote entire episodes of **Friends** & **The Big Bang Theory**
@@ -33,12 +34,12 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,materialui,redux&theme=dark" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,redux,flutter&theme=dark" alt="core stack"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,docker,githubactions,linux,threejs,git,vscode&theme=dark" alt="backend & tooling stack"/>
+  <img src="https://skillicons.dev/icons?i=dart,vite,nodejs,docker,githubactions,git,linux,vscode&theme=dark" alt="mobile & tooling stack"/>
 </p>
 
-<p align="center"><sub><strong>Frontend</strong> React · Next.js · Astro · TypeScript · Tailwind · shadcn/ui · MUI &nbsp;•&nbsp; <strong>Backend & Tooling</strong> NestJS · Node.js · Docker · GitHub Actions · Linux (Fedora) &nbsp;•&nbsp; <strong>Exploring</strong> Micro-frontends · React Native · Three.js</sub></p>
+<p align="center"><sub><strong>Frontend</strong> React · Next.js · TypeScript · Tailwind · Redux Toolkit · TanStack Query · MUI · Vite &nbsp;•&nbsp; <strong>Mobile</strong> Flutter (Dart) · React Native &nbsp;•&nbsp; <strong>Tooling</strong> Node.js · Docker · GitHub Actions · Git · Linux (Fedora) &nbsp;•&nbsp; <strong>Exploring</strong> Astro · NestJS · Three.js · Micro-frontends</sub></p>
 
 ---
 
@@ -48,6 +49,9 @@
 |---------|-------|--------|
 | **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · TypeScript · MUI | Banking app for **70k+ users** |
 | **[Spendo](https://app.spendo.com/)** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
+| **NanoCard** | Next.js · TypeScript · Flutter | Card-issuing fintech — web, admin & mobile app |
+| **Ezy NeoBank** | Next.js · TypeScript · TanStack Query | Neobank platform — customer + admin |
+| **RapidCart** | Next.js · TypeScript · Tailwind | E-commerce platform + admin dashboard |
 | **DBL Corporate Portal** *(private)* | React · TypeScript · Redux | Internal tool for **1,500+ staff** |
 | **[Hispanic Society NYPD](https://www.nypdhs.com/)** | Next.js · Tailwind CSS | Community portal & ticketing |
 | **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next.js · Node.js | Official website of DISL |
