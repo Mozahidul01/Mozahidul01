@@ -1,7 +1,7 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <a href="https://mozahidul01.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=60&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic;Building+Fintech+%40+Dhrubok+Infotech" alt="Mozahidul Islam" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=75&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic;Building+Fintech+%40+Dhrubok+Infotech" alt="Mozahidul Islam" />
   </a>
 </p>
 
@@ -60,12 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozahidul01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&rank_icon=percentile&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Mozahidul01&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Mozahidul01&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub streak"/>
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozahidul01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <!--
