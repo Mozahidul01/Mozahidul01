@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&rank_icon=percentile&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats-sable-zeta-99.vercel.app/api?username=Mozahidul01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=tokyonight&cache_seconds=21600" alt="GitHub stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Mozahidul01&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub streak"/>
 </p>
 
