@@ -1,0 +1,9 @@
+version: 2
+updates:
+  # keep SHA-pinned GitHub Actions current through reviewed PRs
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "ci"
