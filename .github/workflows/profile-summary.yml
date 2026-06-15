@@ -1,12 +1,11 @@
 name: Profile Summary Cards
 
 on:
+  # nightly + manual only — NOT on push (avoids racing other master-committing
+  # workflows, which reject each other on non-fast-forward push)
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - master
 
 permissions:
   contents: read

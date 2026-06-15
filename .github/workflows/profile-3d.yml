@@ -1,12 +1,11 @@
 name: 3D Contribution Graph
 
 on:
+  # nightly + manual only — NOT on push (avoids racing other workflows that
+  # commit to master; they'd reject each other on non-fast-forward push)
   schedule:
     - cron: "30 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - master
 
 # read-only by default; the job opts into write
 permissions:
