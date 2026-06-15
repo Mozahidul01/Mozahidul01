@@ -1,39 +1,45 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="32"/>
-  Hey, I'm Mozahidul Islam!
-</h1>
-
+<!-- TYPING HEADER -->
 <p align="center">
-  Full-Stack Engineer (Frontend fan-boy) turning ☕ into <strong>React / Next.js</strong> magic.<br/>
-  Currently building Fintech & Enterprise platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
+  <a href="https://mozahidul01.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=60&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic;Building+Fintech+%40+Dhrubok+Infotech" alt="Mozahidul Islam" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://mozahidul01.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square"></a>
-  <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mozahidul01.mozahidul01&style=flat-square" />
+  Full-Stack Engineer (Frontend fan-boy) shipping <strong>bank-grade React / Next.js</strong> apps.<br/>
+  Currently building Fintech &amp; Enterprise platforms at <strong>Dhrubok Infotech Services Ltd.</strong>
+</p>
+
+<!-- SOCIAL + VIEWS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mozahidul01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mozahidul01.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:mmozahidul01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Mozahidul01&style=flat-square&color=7AA2F7&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Shipping **bank-grade apps** with React, Next.js & Tailwind  
-- 🧑‍💻 Learning **NestJS** for backend APIs & **React Native + Expo** for my next project  
-- 🛠️ Terminal stack: **Warp → zsh → powerlevel10k** (because vibes matter)  
-- 🐧 Hardcore **Fedora + GNOME customisation** enthusiast  
-- ☕ Can’t code without coffee; can quote entire episodes of **Friends** & **Big Bang Theory**
+- 🔭 Shipping **bank-grade apps** with React, Next.js & Tailwind for **70k+ users**
+- 🧑‍💻 Leveling up on **NestJS** (backend APIs) & **React Native + Expo** (mobile)
+- 🛠️ Daily driver: **Warp → zsh → powerlevel10k** — because vibes matter
+- 🐧 Hardcore **Fedora + GNOME ricing** enthusiast
+- ☕ Can't code without coffee; can quote entire episodes of **Friends** & **The Big Bang Theory**
+- 💬 Ask me about **frontend architecture, micro-frontends, or design systems**
 
 ---
 
 ### 🧰 Tech Toolbox
 
-| 🌐 Frontend | ⚙️ Utilities | 🚀 Currently Exploring |
-|-------------|--------------|------------------------|
-| React · Next.js · Astro | GitHub Actions · Docker | NestJS · React Native |
-| TypeScript · JavaScript (ES6) | Warp Terminal · VSCode · Notion | Micro-frontends |
-| Tailwind CSS · shadcn/ui · MUI | Linux (Fedora) | Three.js (just for fun) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,materialui,redux&theme=dark" alt="frontend stack"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,docker,githubactions,linux,threejs,git,vscode&theme=dark" alt="backend & tooling stack"/>
+</p>
+
+<p align="center"><sub><strong>Frontend</strong> React · Next.js · Astro · TypeScript · Tailwind · shadcn/ui · MUI &nbsp;•&nbsp; <strong>Backend & Tooling</strong> NestJS · Node.js · Docker · GitHub Actions · Linux (Fedora) &nbsp;•&nbsp; <strong>Exploring</strong> Micro-frontends · React Native · Three.js</sub></p>
 
 ---
 
@@ -41,48 +47,73 @@
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · Typescript · MUI | Banking app for **70k+ users** |
+| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · TypeScript · MUI | Banking app for **70k+ users** |
 | **[Spendo](https://app.spendo.com/)** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
-| **[DBL Corporate Portal](private)** | React · TypeScript · Redux| Internal tool for **1,500+ staff** |
+| **DBL Corporate Portal** *(private)* | React · TypeScript · Redux | Internal tool for **1,500+ staff** |
 | **[Hispanic Society NYPD](https://www.nypdhs.com/)** | Next.js · Tailwind CSS | Community portal & ticketing |
-| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next Js · Node Js | Official website Of DISL |
+| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next.js · Node.js | Official website of DISL |
 
-> ⚠️ Some contributions are in private or organisation repos, so GitHub stats may look quieter than my keyboard really is.
+> ⚠️ Lots of my work lives in private / org repos, so the graphs below are quieter than my keyboard actually is.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mozahidul01&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mozahidul01&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozahidul01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=Mozahidul01&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub streak"/>
+</p>
+
+<!--
+  TROPHY ROW — disabled: the public github-profile-trophy.vercel.app instance is
+  currently returning HTTP 402 (over quota) and renders as a broken image.
+  Re-enable when it recovers, or self-host on your own Vercel for guaranteed uptime.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mozahidul01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+</p>
+-->
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mozahidul01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
 ---
 
-### Coded
-[![wakatime](https://wakatime.com/badge/user/d1d03db4-b066-4369-802e-b0934f2b76e6.svg)](https://wakatime.com/@d1d03db4-b066-4369-802e-b0934f2b76e6)
+### 🐍 Watch the snake eat my contributions
 
-# Wakatime Statistics:
-<a href="https://wakatime.com/@mozahidul01">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mozahidul01&show_icons=true&theme=vision-friendly-dark" alt="WakaTimeee">
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+### ⏱️ Where My Coding Time Goes
+
+[![wakatime](https://wakatime.com/badge/user/d1d03db4-b066-4369-802e-b0934f2b76e6.svg)](https://wakatime.com/@mozahidul01)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Creating Secure Auth with NextAuth & Next.js](https://mozahidul01.netlify.app/blogs/)
-- [Tailwind + shadcn/ui: A Match Made in Heaven](https://mozahidul01.netlify.app/blogs/)
-<!-- BLOG-POST-LIST:END -->
-
----
+<!-- DYNAMIC QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
 
 ### ✉️ Reach Out
 
-- Email: [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)  
-- LinkedIn DMs are always open for collaboration, coffee chats, or **Friends** trivia!
+- **Email:** [mmozahidul01@gmail.com](mailto:mmozahidul01@gmail.com)
+- **LinkedIn:** DMs open for collaboration, coffee chats, or **Friends** trivia! → [in/mozahidul01](https://www.linkedin.com/in/mozahidul01/)
+- **Portfolio:** [mozahidul01.netlify.app](https://mozahidul01.netlify.app)
 
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+<p align="center"><sub><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></sub></p>
