@@ -22,12 +22,9 @@
 ### 🚀 About Me
 
 - 🔭 Shipping **bank-grade fintech apps** with React, Next.js & Tailwind for **70k+ users**
-- 📱 Building cross-platform mobile with **Flutter** (Dart) — also fluent in **React Native**
-- 🧑‍💻 At home across the stack: **TypeScript**, Redux Toolkit, TanStack Query & Node.js
-- 🛠️ Daily driver: **Warp → zsh → powerlevel10k** — because vibes matter
-- 🐧 Hardcore **Fedora + GNOME ricing** enthusiast
-- ☕ Can't code without coffee; can quote entire episodes of **Friends** & **The Big Bang Theory**
-- 💬 Ask me about **frontend architecture, micro-frontends, or design systems**
+- 📱 Cross-platform mobile with **Flutter** (Dart) — also fluent in **React Native**
+- 🧑‍💻 Core stack: **TypeScript**, Redux Toolkit, TanStack Query & Node.js
+- ☕ Fedora ricer · runs on coffee · quotes too much **Friends** & **Big Bang Theory**
 
 ---
 
@@ -67,29 +64,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=Mozahidul01&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mozahidul01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time of day"/>
-  <img width="49%" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed language"/>
-</p>
-
-<!--
-  TROPHY ROW — disabled: the public github-profile-trophy.vercel.app instance is
-  currently returning HTTP 402 (over quota) and renders as a broken image.
-  Re-enable when it recovers, or self-host on your own Vercel for guaranteed uptime.
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mozahidul01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
-</p>
--->
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mozahidul01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
-</p>
-
 ---
 
 ### 🐍 Watch the snake eat my contributions
@@ -101,25 +75,6 @@
     <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
-
----
-
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph"/>
-</p>
-
-<!--
-  METRICS DASHBOARD — enable after: (1) create a classic PAT (scopes: repo, read:user)
-  -> add it as repo secret METRICS_TOKEN, (2) run the "Metrics" workflow once.
-  Then uncomment this block.
-### 📈 Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mozahidul01/Mozahidul01/master/github-metrics.svg" alt="Metrics dashboard"/>
-</p>
--->
 
 ---
 
@@ -145,11 +100,6 @@ YAML               9 hrs 44 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ---
-
-<!-- DYNAMIC QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</p>
 
 ### ✉️ Reach Out
 
