@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Engineer (Frontend fan-boy) shipping <strong>bank-grade React / Next.js</strong> apps.
+  Frontend Software Engineer shipping <strong>bank-grade React / Next.js</strong> apps.
 </p>
 
 <!-- SOCIAL + VIEWS -->
