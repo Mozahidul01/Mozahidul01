@@ -1,7 +1,7 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <a href="https://mozahidul01.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&height=70&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Frontend+fan-boy;Turning+%E2%98%95+into+React+%26+Next.js+magic" alt="Mozahidul Islam" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&height=70&lines=Hey%2C+I'm+Mozahidul+Islam+%F0%9F%91%8B;Frontend+Software+Engineer;Turning+%E2%98%95+into+React+%26+Next.js+magic" alt="Mozahidul Islam" />
   </a>
 </p>
 
@@ -21,9 +21,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Shipping **bank-grade fintech apps** with React, Next.js & Tailwind for **70k+ users**
-- 📱 Cross-platform mobile with **Flutter** (Dart) — also fluent in **React Native**
-- 🧑‍💻 Core stack: **TypeScript**, Redux Toolkit, TanStack Query & Node.js
+- 🔭 Frontend lead on **bank-grade fintech apps** with React, Next.js & Tailwind — one serving **150K+ users**
+- 🏗️ Lead frontend architecture, build shared component systems & mentor junior engineers
+- ⚡ Focused on performance, SEO, accessibility & clean component design
+- 🧑‍💻 Core stack: **TypeScript**, Next.js, TanStack Start & Query, Zustand, Redux Toolkit
+- 🧪 Deepening **testing** (Jest / React Testing Library)
 - ☕ Fedora ricer · runs on coffee · quotes too much **Friends** & **Big Bang Theory**
 
 ---
@@ -31,12 +33,12 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,redux,flutter&theme=dark" alt="core stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,redux&theme=dark" alt="core stack"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=dart,vite,nodejs,docker,githubactions,git,linux,vscode&theme=dark" alt="mobile & tooling stack"/>
+  <img src="https://skillicons.dev/icons?i=vite,nodejs,docker,githubactions,git,linux,vscode&theme=dark" alt="tooling stack"/>
 </p>
 
-<p align="center"><sub><strong>Frontend</strong> React · Next.js · TypeScript · Tailwind · Redux Toolkit · TanStack Query · MUI · Vite &nbsp;•&nbsp; <strong>Mobile</strong> Flutter (Dart) · React Native &nbsp;•&nbsp; <strong>Tooling</strong> Node.js · Docker · GitHub Actions · Git · Linux (Fedora) &nbsp;•&nbsp; <strong>Exploring</strong> Astro · NestJS · Three.js · Micro-frontends</sub></p>
+<p align="center"><sub><strong>Frontend</strong> React · Next.js · TanStack Start · TypeScript · Tailwind · Redux Toolkit · TanStack Query · Radix · shadcn/ui · MUI · Vite &nbsp;•&nbsp; <strong>Mobile</strong> React Native (secondary) &nbsp;•&nbsp; <strong>Tooling</strong> Node.js · Turborepo · Docker · GitHub Actions · Git · Linux (Fedora) &nbsp;•&nbsp; <strong>Deepening</strong> Testing (Jest / RTL)</sub></p>
 
 ---
 
@@ -44,14 +46,13 @@
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **DBL GO Plus** | Next.js · TypeScript · MUI | Banking app for **70k+ users** |
-| **Spendo** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) |
-| **NanoCard** | Next.js · TypeScript · Flutter | Card-issuing fintech — web, admin & mobile app |
-| **Ezy NeoBank** | Next.js · TypeScript · TanStack Query | Neobank platform — customer + admin |
-| **RapidCart** | Next.js · TypeScript · Tailwind | E-commerce platform + admin dashboard |
-| **DBL Corporate Portal** *(private)* | React · TypeScript · Redux | Internal tool for **1,500+ staff** |
-| **Hispanic Society NYPD** | Next.js · Tailwind CSS | Community portal & ticketing |
-| **Dhrubok Infotech Website** | Next.js · Node.js | Official website of DISL |
+| **[DBL GO Plus](https://play.google.com/store/apps/details?id=com.dhakabank.go_plus)** | Next.js · TypeScript · Tailwind | Digital banking platform for **150K+ users** |
+| **NanoCard** | Next.js · TanStack Start · TypeScript | Crypto card platform — B2C, B2B & agent tiers |
+| **Spendo** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) — now inactive |
+| **Ezy NeoBank** | Next.js · TypeScript · TanStack Query | White-label neo-banking — customer + admin |
+| **[Muqto](https://muqto.com)** | Next.js · TypeScript · Tailwind | E-commerce platform + admin dashboard |
+| **[NYPD Asian Jade Society](https://nypdasianjade.org/)** | Next.js · Tailwind CSS | Community portal, membership & e-commerce |
+| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next.js · CMS | Official website of DISL |
 
 > ⚠️ Lots of my work lives in private / org repos, so the graphs below are quieter than my keyboard actually is.
 
