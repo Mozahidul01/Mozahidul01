@@ -51,8 +51,7 @@
 | **Spendo** | React · Next.js · TypeScript | Crypto + vIBAN platform (EU) — now inactive |
 | **Ezy NeoBank** | Next.js · TypeScript · TanStack Query | White-label neo-banking — customer + admin |
 | **[Muqto](https://muqto.com)** | Next.js · TypeScript · Tailwind | E-commerce platform + admin dashboard |
-| **[NYPD Asian Jade Society](https://nypdasianjade.org/)** | Next.js · Tailwind CSS | Community portal, membership & e-commerce |
-| **[Dhrubok Infotech Website](https://dhrubokinfotech.com/)** | Next.js · CMS | Official website of DISL |
+| **[NYPD Hispanic Society](https://nypdhs.com/)** | Next.js · Tailwind CSS | Community portal, membership & e-commerce |
 
 > ⚠️ Lots of my work lives in private / org repos, so the graphs below are quieter than my keyboard actually is.
 
